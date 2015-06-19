@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/KoryNunn/to-datauri/issues"
   },
-  "homepage": "https://github.com/KoryNunn/to-datauri"
+  "homepage": "https://github.com/KoryNunn/to-datauri",
+  "description": "get a data-uri from an image source url."
 }
